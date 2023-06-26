@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(rgb(255, 133, 198), rgb(255, 245, 152));
+}
+h1{
+    padding:10px;
+    box-shadow: 5px 5px 5px rgb(89, 157, 212);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border:dashed;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+.copy_right_footer{
+    background-color: rgb(253, 150, 253);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-inline: 5px;
+    margin-top: 20px;
+    border-style: dashed;
+    border-color: rgb(139, 139, 255);
+    position: fixed;
+    bottom: 0;
+    width:100%;
+}
+canvas{
+    border-radius: 5px;
+    border-color: black;
+    border-style: dotted;
+    box-shadow: 5px 5px 5px pink;
+    padding:15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
